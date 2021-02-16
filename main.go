@@ -3,7 +3,7 @@ package goarea
 import "math"
 
 // Pi eh uma proporcao numerica definida pela relacao entre
-// o perimetro de uma circunferencia e seu diametro
+// o perimetro de uma circunferencia e seu diametroaaaa
 const Pi = 3.1416
 
 // Circ eh responsavel por calcular a area da circunferencia
